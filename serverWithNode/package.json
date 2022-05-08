@@ -1,15 +1,12 @@
 {
-  "name": "planetsproject",
+  "name": "serverwithnode",
   "version": "1.0.0",
-  "description": "",
+  "description": "This project is a basic handson on how to write a basic server with Node",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Tanmoy Roy",
-  "license": "ISC",
-  "dependencies": {
-    "csv-parse": "^5.0.4"
-  }
+  "license": "ISC"
 }
