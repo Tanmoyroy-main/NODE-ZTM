@@ -1,15 +1,19 @@
 {
-  "name": "planetsproject",
+  "name": "expressapi",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is the express API Module of the course",
   "main": "index.js",
   "scripts": {
+    "watch": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Tanmoy Roy",
   "license": "ISC",
   "dependencies": {
-    "csv-parse": "^5.0.4"
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
   }
 }
